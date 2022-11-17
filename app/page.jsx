@@ -9,9 +9,6 @@ export default function Home() {
           Welcome to <a href="https://skitnay.ru">SkitNay.ru</a>
         </h1>
       </main>
-
-      <footer className={styles.footer}>
-      </footer>
     </div>
   )
 }
